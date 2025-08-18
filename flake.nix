@@ -1,4 +1,4 @@
-
+nix
 {
   description = "A simple Python development environment";
 
